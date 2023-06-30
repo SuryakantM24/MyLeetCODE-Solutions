@@ -1,14 +1,4 @@
 class Solution {
-
-
-    public String reverse(String s){
-        String ans="";
-        for(int i=0;i<s.length();i++){
-            ans=s.charAt(i)+ans;
-        }
-
-        return ans;
-    }
     public String reverseWords(String s) {
          String ans="";
          for(int i=s.length()-1;i>=0;i--){
