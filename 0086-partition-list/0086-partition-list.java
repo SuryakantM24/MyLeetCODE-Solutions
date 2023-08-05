@@ -18,15 +18,7 @@ class Solution {
         ListNode head2=null,tail2=null;
         ListNode temp=head;
 
-        if(temp.val<x){
-            head1=temp;
-            tail1=temp;
-        }
-        else{
-            head2=temp;
-            tail2=temp;
-        }
-        temp=temp.next;
+   
 
 
         while(temp!=null){
