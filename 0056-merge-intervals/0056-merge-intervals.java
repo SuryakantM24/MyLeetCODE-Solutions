@@ -11,12 +11,14 @@ class Solution {
     // }
     public int[][] merge(int[][] intervals) {
  
-        Arrays.sort(intervals,(a,b)->{
-                int val1=a[0];
-            int val2=b[0];
+        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
+        // {
+        //     int val1=a[0];
+        //     int val2=b[0];
             
-            return val1-val2;
-        });
+        //     return val1-val2;
+        // }
+        
         Stack<int []> st=new Stack<>();
         st.push(intervals[0]);
         
