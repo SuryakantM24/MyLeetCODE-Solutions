@@ -1,32 +1,32 @@
 class MyCircularQueue {
-        private int[] data;
-        private int front;
-        private int rear;
-        private int size=0;
+
+
+    private int[] data;
+    private int rear;
+    private int front;
+    private int size=0;
 
     public MyCircularQueue(int k) {
 
-           data =new int[k];
-           this.front=-1;              
-           this.rear=-1;
-
+        data=new int[k];
+        this.rear=-1;
+        this.front=-1;
+       
         
     }
     
     public boolean enQueue(int value) {
-
-        if(size==0){
-            front=0;
-        }
-
-        if(size==data.length){
-            return false;
-        }
-        rear=(rear+1)%data.length;
-        data[rear]=value;
-        size++;
-        return true;
-        
+       
+       if(size==0){
+          front=0;
+       }
+       if(size==data.length){
+           return false;
+       }
+       rear=(rear+1)%data.length;
+       data[rear]=value;
+       size++;
+       return true;    
     }
     
     public boolean deQueue() {
@@ -34,16 +34,16 @@ class MyCircularQueue {
         if(size==0){
             return false;
         }
-        
         front=(front+1)%data.length;
-        int temp=data[front];
+       
         size--;
         if(size==0){
-            front=-1;
             rear=-1;
+            front=-1;
         }
-
         return true;
+        
+
         
     }
     
@@ -51,13 +51,12 @@ class MyCircularQueue {
         if(size==0){
             return -1;
         }
-        
+
         return data[front];
-        
+
     }
     
     public int Rear() {
-
         if(size==0){
             return -1;
         }
@@ -74,16 +73,16 @@ class MyCircularQueue {
     
     public boolean isFull() {
 
+
         return size==data.length?true:false;
         
-    }
+     }
+        
+    
 
 
 }
 
-        //  r
-        //  f
-        //  1   2.  3
 
 /**
  * Your MyCircularQueue object will be instantiated and called as such:
