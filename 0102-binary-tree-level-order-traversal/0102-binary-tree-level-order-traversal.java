@@ -16,57 +16,39 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
 
-        Queue<TreeNode> q=new LinkedList<>();
-        List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> arr=new ArrayList<>();
+           List<List<Integer>> res=new ArrayList<List<Integer>>();
 
-        if(root==null){
-            return ans;
-         }
-         q.offer(root);
-         q.offer(null);
-        while(!q.isEmpty()){
+            Queue<TreeNode> q=new LinkedList<TreeNode>();
 
-            TreeNode t=q.poll();
+            if(root==null){
+                return res;
+            }
+            q.offer(root);
 
-            if(t==null){
-                ans.add(arr);
-                arr=new ArrayList<Integer>();
-               if(!q.isEmpty()){
-                   q.offer(null);
+            while(!q.isEmpty()){
+
+
+                int len=q.size();
+                List<Integer> level = new ArrayList<Integer>();
+
+                for(int i=0;i<len;i++){
+                   if(q.peek().left != null){
+                       q.offer(q.peek().left);
+                   }
+                   if(q.peek().right!=null){
+                       q.offer(q.peek().right);
+                   }
+
+                   level.add(q.poll().val);
                 }
-               continue;
-            }
-         
-            arr.add(t.val);
-            if(t.left!=null){
-                q.offer(t.left);
-            }
+                res.add(level);
+                
 
-            if(t.right!=null){
-                q.offer(t.right);
             }
-            
+            return res;
 
-        }
 
-        return ans;
+
         
     }
 }
-
-
-    //         3
-
-    //     9.     20
-
-    //         15      7
-
-
-
-    //    q-      
- 
-
-    //    arr:-    
-
-    //    ans:-   3| 9 20| 15 17     
