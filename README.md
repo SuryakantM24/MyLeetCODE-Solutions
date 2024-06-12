@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0234-palindrome-linked-list) |
 # Two Pointers
 |  |
