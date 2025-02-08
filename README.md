@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0485-max-consecutive-ones](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
