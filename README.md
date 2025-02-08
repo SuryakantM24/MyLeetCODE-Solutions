@@ -55,9 +55,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0726-number-of-atoms) |
 ## Sorting
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0726-number-of-atoms) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
