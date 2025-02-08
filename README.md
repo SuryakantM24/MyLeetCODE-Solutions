@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -74,8 +75,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
