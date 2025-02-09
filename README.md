@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0726-number-of-atoms) |
 ## String
 |  |
@@ -60,12 +61,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0726-number-of-atoms) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -84,4 +87,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
