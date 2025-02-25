@@ -99,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
