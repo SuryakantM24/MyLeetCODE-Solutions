@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0726-number-of-atoms) |
 ## String
@@ -102,5 +103,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
