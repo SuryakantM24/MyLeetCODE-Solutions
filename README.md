@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0726-number-of-atoms) |
 ## String
@@ -104,5 +105,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SuryakantM24/MyLeetCODE-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
